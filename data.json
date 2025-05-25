@@ -1,0 +1,977 @@
+[
+  {
+    "title": "Twisted Love",
+    "genre": "Fiction",
+    "status": "Borrowed",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": false,
+    "image": "https://media.oceanofpdf.com/2024/12/PDF-EPUB-Twisted-Love-Twisted-1-by-Ana-Huang-Download-150x225.jpg"
+  },
+  {
+    "title": "Twisted Games",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2025/04/PDF-EPUB-Twisted-Games-Twisted-Games-2-by-Ana-Huang-Download-150x225.jpg"
+  },
+  {
+    "title": "Twisted Lies",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2025/01/PDF-EPUB-Twisted-Lies-Twisted-4-by-Ana-Huang-Download-150x225.jpg"
+  },
+  {
+    "title": "Twisted Hate",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2025/03/PDF-EPUB-Twisted-Hate-Twisted-3-by-Ana-Huang-Download-150x225.jpg"
+  },
+  {
+    "title": "It Ends With Us",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/81s0B6NYXML.jpg"
+  },
+  {
+    "title": "It Starts With Us",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2022/10/PDF-EPUB-It-Starts-with-Us-It-Ends-with-Us-2-by-Colleen-Hoover-Download.jpg"
+  },
+  {
+    "title": "Ugly Love",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2025/01/PDF-EPUB-Ugly-Love-by-Colleen-Hoover-Download-150x225.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-Harry-Potter-and-the-Sorcerers-Stone-Harry-Potter-1-Download.jpg"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/06/PDF-EPUB-Harry-Potter-and-the-Chamber-of-Secrets-Harry-Potter-dan-Kamar-Rahasia-Harry-Potter-2-by-J.K.-Rowling-Download-150x225.jpg"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2024/06/PDF-EPUB-Harry-Potter-and-the-Prisoner-of-Azkaban-Harry-Potter-3-by-J.K.-Rowling-Download-199x300.jpg"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "genre": "Fantasy",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/05/PDF-EPUB-Alice-in-Wonderland-High-by-Rachel-Shane-Download.jpg"
+  },
+  {
+    "title": "Atomic Habits",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2021/03/PDF-EPUB-Atomic-Habits-An-Easy-Proven-Way-to-Build-Good-Habits-Break-Bad-Ones-by-James-Clear-Download.jpg"
+  },
+  {
+    "title": "The Happiness Advantage",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2020/04/PDF-EPUB-The-Happiness-Advantage-The-Seven-Principles-of-Positive-Psychology-That-Fuel-Success-and-Performan-by-Shawn-Achor-Download.jpg"
+  },
+  {
+    "title": "101 Dalmatians",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/06/PDF-EPUB-101-Dalmatians-by-Walt-Disney-Company-Download-150x225.jpg"
+  },
+  {
+    "title": "Life of Pi",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/09/PDF-EPUB-Life-of-Pi-Download.jpg"
+  },
+  {
+    "title": "Throne of Glass",
+    "genre": "Fantasy",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-Heir-of-Fire-Throne-of-Glass-3-Download.jpg"
+  },
+  {
+    "title": "Red Queen",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/07/PDF-EPUB-Red-Queen-by-Victoria-Aveyard-Download.jpg"
+  },
+  {
+    "title": "I Capture the Castle",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2020/07/PDF-EPUB-I-Capture-the-Castle-by-Dodie-Smith-Download.jpg"
+  },
+  {
+    "title": "The Four Agreements",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2022/08/PDF-EPUB-The-Four-Agreements-A-Practical-Guide-to-Personal-Freedom-by-Miguel-Ruiz-Download.jpg"
+  },
+  {
+    "title": "To Kill a Mocking Bird",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2024/12/PDF-EPUB-To-Kill-a-Mocking-Bird-by-Harper-Lee-Download-150x225.jpg"
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2020/02/PDF-EPUB-The-Left-Hand-of-Darkness-Download.jpg"
+  },
+  {
+    "title": "Normal People ",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2020/03/PDF-EPUB-Normal-People-Download.jpg"
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-The-Diary-of-a-Young-Girl-Download.jpg"
+  },
+  {
+    "title": "Deep Work",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/11/PDF-EPUB-Deep-Work-Rules-for-Focused-Success-in-a-Distracted-World-Download.jpg"
+  },
+  {
+    "title": "My Name Is Red",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/91kTY85M-xL.jpg"
+  },
+  {
+    "title": "Atat\u00fcrk: An Intellectual Biography",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/12/PDF-EPUB-Ataturk-An-Intellectual-Biography-by-M.-Sukru-Hanioglu-Download-150x225.jpg"
+  },
+  {
+    "title": "Before We Were Strangers",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-Before-We-Were-Strangers-Download.jpg"
+  },
+  {
+    "title": "The Night Circus",
+    "genre": "Fantasy",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-The-Night-Circus-Download.jpg"
+  },
+  {
+    "title": "The Silent Patient",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2025/01/PDF-EPUB-The-Silent-Patient-by-Alex-Michaelides-Download-150x225.png"
+  },
+  {
+    "title": "The Hobbit",
+    "genre": "Fantasy",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2022/12/PDF-EPUB-The-Hobbit-by-Chuck-Dixon-Download.jpg"
+  },
+  {
+    "title": "The Fine Print",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/01/PDF-EPUB-The-Fine-Print-of-Self-Publishing-by-Mark-Levine-Download.jpg"
+  },
+  {
+    "title": "A Man Called Ove",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-A-Man-Called-Ove-Download.jpg"
+  },
+  {
+    "title": "The Alchemist",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/71QKQ9mwV7L.jpg"
+  },
+  {
+    "title": "Think Like a Monk",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/81s6DUyQCZL.jpg"
+  },
+  {
+    "title": "The Mountain Is Young",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2025/03/PDF-EPUB-The-Mountain-Is-Young-by-Han-Suyin-Download-150x225.jpg"
+  },
+  {
+    "title": "Nutuk (The Speech) by Mustafa Kemal Atat\u00fcrk",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2024/07/PDF-EPUB-The-Speech-Nutuk-English-Edition-by-Mustafa-Kemal-Ataturk-Download-150x225.jpg"
+  },
+  {
+    "title": "Atat\u00fcrk: The Biography of the Founder of Modern Turkey",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/612TgdHUagL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Turkey: A Modern History",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316134899i/1846245.jpg"
+  },
+  {
+    "title": "The Emergence of Modern Turkey",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/71oNSic4EtL.jpg"
+  },
+  {
+    "title": "Atat\u00fcrk and the Modernization of Turkey",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440167731i/14714616.jpg"
+  },
+  {
+    "title": "Islam, Secularism and Nationalism in Modern Turkey",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/51gMOn83Y5L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Turks in World History",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/715SQkU0MTL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Young Turks and the Ottoman Nationalities",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/71ezzyT1mcL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "From Empire to Republic",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/61bbVD3iLgL.jpg"
+  },
+  {
+    "title": "Atat\u00fcrk's Vision: Turkey's Path to Modernization",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://m.media-amazon.com/images/I/71YYIG-FIaL.jpg"
+  },
+  {
+    "title": "A History of Ancient Egypt",
+    "genre": "History",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348083931i/163041.jpg"
+  },
+  {
+    "title": "Shadow and Bone",
+    "genre": "Fantasy",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4781f2ba-55c3-4d94-a984-733204dc3fed_1482x2222.jpeg"
+  },
+  {
+    "title": "Can\u2019t Hurt Me",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2024/11/PDF-EPUB-You-Cant-Hurt-Me-by-Emma-Cook-Download.jpg"
+  },
+  {
+    "title": "Make Your Bed",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-Make-Your-Bed-Little-Things-That-Can-Change-Your-Life...And-Maybe-the-World-Download.jpg"
+  },
+  {
+    "title": "Book Lovers",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2025/01/PDF-EPUB-Book-Lovers-by-Emily-Henry-Download.jpg"
+  },
+  {
+    "title": "The Midnight Library",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2020/09/PDF-EPUB-The-Midnight-Library-by-Matt-Haig-Download-733x1024.jpg"
+  },
+  {
+    "title": "The Light We Lost",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2022/09/PDF-EPUB-The-Light-We-Lost-Lost-Light-1-by-Kyla-Stone-Download.jpg"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/09/PDF-EPUB-The-Fault-in-Our-Stars-Download.jpg"
+  },
+  {
+    "title": "The Book Thief",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/12/PDF-EPUB-The-Book-Thief-by-dailyBooks-Download-150x225.jpg"
+  },
+  {
+    "title": "Before I Fall",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/09/PDF-EPUB-Catch-Me-Before-I-Fall-by-Rosie-Childs-Download.jpg"
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-Eleanor-Oliphant-Is-Completely-Fine-Download.jpg"
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-Little-Fires-Everywhere-Download.jpg"
+  },
+  {
+    "title": "Coraline",
+    "genre": "Fantasy",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/09/PDF-EPUB-Coraline-Download.jpg"
+  },
+  {
+    "title": "Neverwhere",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-Neverwhere-London-Below-1-Download.jpg"
+  },
+  {
+    "title": "The 5th Wave",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2022/09/PDF-EPUB-The-5th-Wave-The-5th-Wave-1-by-Rick-Yancey-Download.jpg"
+  },
+  {
+    "title": "Before the Coffee Gets Cold",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2020/04/PDF-EPUB-Before-the-Coffee-Gets-Cold-by-Toshikazu-Kawaguchi-Download.jpg"
+  },
+  {
+    "title": "The Maze Runner",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-The-Maze-Runner-Files-Maze-Runner-Download.jpg"
+  },
+  {
+    "title": "Shutter Island",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2020/03/PDF-EPUB-Shutter-Island-by-Dennis-Lehane-Download.jpg"
+  },
+  {
+    "title": "The Graveyard Book",
+    "genre": "Fantasy",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/09/PDF-EPUB-The-Graveyard-Book-Download.jpg"
+  },
+  {
+    "title": "The Power",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/04/PDF-EPUB-The-power-by-Ronald-S.-Joseph-Download.jpg"
+  },
+  {
+    "title": "The 5 AM Club",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-The-5-AM-Club-Own-Your-Morning.-Elevate-Your-Life-Download.jpg"
+  },
+  {
+    "title": "The Magic of Thinking Big",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-The-Magic-of-Thinking-Big-Download.jpg"
+  },
+  {
+    "title": "You Are Not Broken",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2024/09/PDF-EPUB-You-Are-Not-Broken-Stop-quotShould-ing-quot-All-Over-Your-Sex-Life-by-KJ-Casperson-MD-Download-150x225.jpg"
+  },
+  {
+    "title": "Daring Greatly",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/10/PDF-EPUB-A-Season-of-Daring-Greatly-by-Ellen-Emerson-White-Download-199x300.jpg"
+  },
+  {
+    "title": "The One Thing",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/03/PDF-EPUB-The-One-Thing-by-Marci-Lyn-Curtis-Download.jpg"
+  },
+  {
+    "title": "The 10X Rule",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2024/06/PDF-EPUB-The-10X-Rule-The-Only-Difference-Between-Success-and-Failure-by-Grant-Cardone-Download-150x225.jpg"
+  },
+  {
+    "title": "Essentialism",
+    "genre": "Self-Growth",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2023/01/PDF-EPUB-Essentialism-The-Disciplined-Pursuit-of-Less-by-Greg-McKeown-Download.jpg"
+  },
+  {
+    "title": "The Testaments",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/09/PDF-EPUB-The-Testaments-The-Handmaids-Tale-2-Download.jpg"
+  },
+  {
+    "title": "Cloud Atlas",
+    "genre": "Fiction",
+    "status": "Available",
+    "borrower": {
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    "due_date": "",
+    "returned": true,
+    "image": "https://media.oceanofpdf.com/2019/10/PDF-EPUB-Cloud-Atlas-Download.jpg"
+  }
+]
