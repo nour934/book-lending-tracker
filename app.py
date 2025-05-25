@@ -202,5 +202,8 @@ def delete_book(index):
 def download():
     return send_file('data.json', as_attachment=True)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+import os
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 10000))  # Render needs this
+    app.run(host="0.0.0.0", port=port)
